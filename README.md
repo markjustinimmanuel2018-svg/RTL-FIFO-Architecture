@@ -58,18 +58,12 @@ Each folder contains:
 
 
 |Week |              Project             |              Key Concepts                 |                                       
-
 |-----|----------------------------------|-------------------------------------------|
-
 | 9   |           Wrap-Bit FIFO          | Circular buffering, full/empty detection  |                                                         
-
 | 10  | Self-Checking FIFO Verification  |    Scoreboard model, flag validation      |                                                                       
-
 | 11  |         Priority Arbiter         |  Priority encoding, arbitration latency   |                                               
-
 | 12  |     Data Transfer Controller     |FSM-datapath integration, latency alignment| 
-
-&nbsp;                                             
+                                           
 
 
 
