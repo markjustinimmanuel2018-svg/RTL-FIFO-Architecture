@@ -62,19 +62,19 @@ Each folder contains:
 |-----|----------------------------------|-----------------------------=----|
 
 | 9   |           Wrap-Bit FIFO          |Circular buffering, pointer logic,| 
-|     |                                  |     full/empty detection         |
+                                               full/empty detection          
 
 | 10  | Self-Checking FIFO Verification  | Scoreboard model, X-detection,   |
 
-|     |                                  |       flag validation            |              
+&nbsp;                                                flag validation                          
 
 | 11  |         Priority Arbiter         |  Priority encoding, registered   |
 
-|     |                                  |   outputs, arbitration latency   |
+&nbsp;                                            outputs, arbitration latency   
 
 | 12  |     Data Transfer Controller     |FSM-datapath integration, latency | 
 
-|     |                                  |     alignment, pulse integrity   |
+&nbsp;                                             alignment, pulse integrity   
 
 
 
