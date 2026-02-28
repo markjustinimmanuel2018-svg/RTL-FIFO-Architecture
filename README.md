@@ -10,7 +10,7 @@ Each project in this phase focuses on controller–datapath integration, bufferi
 
 
 
--> This repository represents **Phase-3 Cycle-3: RTL FIFO Architecture** of my RTL learning journey, focused on integrating FSM control logic, FIFO buffering, arbitration, and self-checking verification.
+-> This repository represents **Phase-1 Cycle-3: RTL FIFO Architecture** of my RTL learning journey, focused on integrating FSM control logic, FIFO buffering, arbitration, and self-checking verification.
 
 
 
